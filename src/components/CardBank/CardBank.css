@@ -1,0 +1,16 @@
+.container-cardbank{
+    width: 480px;
+    height: 240px;
+    background-color: rgb(42, 165, 48);
+    border-radius: 25px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.container-cardbank h2{
+    margin: auto;
+}
